@@ -17,7 +17,7 @@
 
 ### Inputs
 
-
+- Create an Input called "MyInput"
 
 ### Dashboards
 
