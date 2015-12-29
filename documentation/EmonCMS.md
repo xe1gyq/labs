@@ -23,6 +23,11 @@
 - Go to [Inputs](http://emoncms.org/input/view)
 
 
+    Inputs
+    
+    Node:	Key	Name	Process list	last updated	value
+    0	MyInput			6 mins ago	0			
+
 ### Dashboards
 
 - Select __New__ called "MyDashboard"
