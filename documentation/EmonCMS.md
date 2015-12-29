@@ -21,5 +21,5 @@
 
 ### Dashboards
 
-- Select __New__
+- Select __New__ called "MyDashboard"
 - 
