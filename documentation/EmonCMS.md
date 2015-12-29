@@ -35,8 +35,6 @@
 
 - Change [Feeds](http://emoncms.org/feed/list) to Public
 
-
-
 ### Dashboards
 
 - Select __New__ called "MyDashboard"
