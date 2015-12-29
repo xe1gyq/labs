@@ -14,6 +14,8 @@
 
 ### Inputs
 
+- [Input API](http://emoncms.org/input/api)
+
 - Create an Input called "MyInput"
 ```sh
     http://emoncms.org/input/post.json?json={MyInput}&apikey=
