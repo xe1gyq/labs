@@ -26,4 +26,7 @@
 ### Dashboards
 
 - Select __New__ called "MyDashboard"
-- 
+
+
+    Id	Name	Alias	Main	Public	Published					
+    29834	MyDashboard									
