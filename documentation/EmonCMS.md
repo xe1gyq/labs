@@ -18,7 +18,7 @@
 
 - Create an Input called "MyInput"
 ```sh
-    http://emoncms.org/input/post.json?json={MyInput}&apikey=
+    http://emoncms.org/input/post.json?json={MyInput:0}&apikey=
 ```
 - Go to [Inputs](http://emoncms.org/input/view)
 
