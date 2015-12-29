@@ -12,9 +12,6 @@
    - Read API Key
 
 
-
-    http://emoncms.org/input/post.json?json={power:200}&apikey=
-
 ### Inputs
 
 - Create an Input called "MyInput"
