@@ -1,4 +1,4 @@
 # Summary
 
-* EmonCMS
+* [EmonCMS](documentation/EmonCMS.md)
 
