@@ -31,6 +31,12 @@
     0	    MyInput		                6 mins ago	    0			
 ```
 
+## Feeds
+
+- Change [Feeds](http://emoncms.org/feed/list) to Public
+
+
+
 ### Dashboards
 
 - Select __New__ called "MyDashboard"
