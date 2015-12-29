@@ -21,13 +21,14 @@
 ```sh
     http://emoncms.org/input/post.json?json={MyInput:0}&apikey=
 ```
+
 - Go to [Inputs](http://emoncms.org/input/view)
 
 ```sh
     Inputs
     
     Node:	Key	Name	Process list	last updated	value
-    0	MyInput			6 mins ago	0			
+    0	    MyInput		                6 mins ago	    0			
 ```
 
 ### Dashboards
@@ -35,5 +36,5 @@
 - Select __New__ called "MyDashboard"
 
 
-    Id	Name	Alias	Main	Public	Published					
+    Id	    Name	      Alias	Main	Public	Published					
     29834	MyDashboard									
