@@ -20,7 +20,7 @@
 - Create an Input called "MyInput"
 
 
-    http://emoncms.org/input/post.json?json={MyInput}&apikey=4319a88d8cebdd507570156eef43819a
+    http://emoncms.org/input/post.json?json={MyInput}&apikey=
 
 
 ### Dashboards
