@@ -15,6 +15,10 @@
 
     http://emoncms.org/input/post.json?json={power:200}&apikey=4319a88d8cebdd507570156eef43819a
 
+### Inputs
+
+
+
 ### Dashboards
 
 - Select __New__
