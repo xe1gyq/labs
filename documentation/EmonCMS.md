@@ -15,9 +15,10 @@
 ### Inputs
 
 - Create an Input called "MyInput"
-
-
+```sh
     http://emoncms.org/input/post.json?json={MyInput}&apikey=
+```
+- Go to http://emoncms.org/input/api
 
 
 ### Dashboards
